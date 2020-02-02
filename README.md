@@ -1,0 +1,2 @@
+# ropeless
+A rope based scripting language for interpolating, transposing and reasoning about text data. Ropeless has an extension API, with two extensions, one is a git client for remotely storing workspace data. The other is an sqlite client for locally storing workspace data. With neither extension, you simply can't `ropeless git` or `ropeless sql`, but the remaining `ropeless` functionality will be available.
